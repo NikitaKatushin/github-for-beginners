@@ -20,8 +20,10 @@ int main(void) {
 	cout << "Size of char is "<< sizeof(uint8_t)<< " byte" << endl;
 
 	uint32_t name_2= 'a';
+	uint32_t name_3= 'b';
 
 	cout << name_2 << endl;
+	cout << name_3 << endl;
 
 	return 0;
 }
